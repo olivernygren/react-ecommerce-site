@@ -8,6 +8,11 @@ header {
   height: 4rem;
 }
 
+.logo-link {
+  display: flex;
+  align-items: center;
+}
+
 header img {
   width: 12rem;
 }
