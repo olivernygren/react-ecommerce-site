@@ -1,0 +1,24 @@
+nav ul {
+  display: flex;
+  list-style-type: none;
+  align-items: center;
+}
+
+nav ul li {
+  margin: 0 .5rem;
+}
+
+.nav-link {
+  padding: 0 .5rem;
+  text-decoration: none;
+  color: black;
+  font-family: 'Work Sans';
+}
+
+.nav-link img {
+  width: 1.5rem;
+}
+
+.nav-link:hover {
+  color: grey;
+}

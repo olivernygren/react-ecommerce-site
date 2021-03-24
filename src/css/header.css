@@ -1,0 +1,13 @@
+header {
+  background: white;
+  box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.138);
+  display: flex;
+  padding: 0 3rem;
+  align-items: center;
+  justify-content: space-between;
+  height: 4rem;
+}
+
+header img {
+  width: 12rem;
+}
